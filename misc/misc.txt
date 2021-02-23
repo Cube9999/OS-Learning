@@ -1,0 +1,9 @@
+// Source code of different OSes
+https://github.com/fysnet/FYSOS - Simple operating system
+https://github.com/VARoDeK/linux_v0.01_to_v0.99.9 - Old linux versions
+https://github.com/SerenityOS/serenity - A 90s looking graphical OS for x86 PCs
+https://github.com/microsoft/MS-DOS - v1.25 and v2 of MS-DOS, keep in mind these are completely made in assembly
+https://github.com/SamyPesse/How-to-Make-a-Computer-Operating-System/tree/master/src
+https://github.com/LemonOSProject/LemonOS - x86_64 UNIX-like OS
+https://github.com/leonardoms/DiyOS - Simple x86 OS
+https://github.com/klange/toaruos - an Operating System written completely from scratch in less than 60k lines of C and assembly

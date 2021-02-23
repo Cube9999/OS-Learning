@@ -1,0 +1,2 @@
+https://github.com/davidcallanan/os-series - Making a x86_64 OS
+https://wiki.archlinux.org/index.php/Arch_boot_process - Boot process of a Linux OS
